@@ -1,5 +1,7 @@
 # Nette mailer sandbox
 
+Sandbox script to test [Nette PHP library](https://github.com/nette/mail).
+
 - [Nette mailer sandbox](#nette-mailer-sandbox)
   - [Build](#build)
   - [Set env vars](#set-env-vars)
